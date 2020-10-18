@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&#12288;
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Actual text -->
