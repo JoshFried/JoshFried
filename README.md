@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 // can add c ustom skills here  can find more styles at shields.io and icons at simpleicons.org
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 -->
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][3.2]][3] 
 
 [2]: https://www.linkedin.com/in/josh-fried/
 [2.2] https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
