@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=JoshFried&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<stats>/?username=JoshFried&theme=dark" />
 
 <!-- Actual text -->
 
