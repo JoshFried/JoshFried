@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFried&count_private&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@6a350c3c-643a-4abd-80d3-a292619e0804)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
