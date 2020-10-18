@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on WorkJams' api as a Java Developer Intern professionally, and a smart home simulation service in Java/Spring and React.js for school
 - 🌱 I’m currently learning C++, React.js, and Java
 - 📫 How to reach me: josh.fried13@gmail.com
+- 😄 Pronouns: he/him
 - 💬 Ask me about Java/Spring/Micronaut, microservice architecture and web development
 <!-- Actual text -->
 
@@ -26,13 +27,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-- 😄 Pronouns: ...
+ ...
 
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&#12288;
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=Curiosity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
