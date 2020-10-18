@@ -31,17 +31,17 @@ Here are some ideas to get you started:
 
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&#12288;
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=curiosity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFried&count_private&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFried&count_private&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+&#12288; (linebreak)
 <!--
 // can add c ustom skills here  can find more styles at shields.io and icons at simpleicons.org
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
