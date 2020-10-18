@@ -1,9 +1,3 @@
-div : {
-  color: black
-}
-
-<div class="text-white bg-gray-dark mb-2">
-  
 
 ### Hi there 👋
 
