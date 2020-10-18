@@ -1,4 +1,4 @@
-<div class="text-white bg-black mb-2">
+<div class="text-white bg-gray-dark mb-2">
   
 
 ### Hi there 👋
