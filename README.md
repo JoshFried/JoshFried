@@ -2,10 +2,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on WorkJams' api as a Java Developer Intern professionally, and a smart home simulation service in Java/Spring and React.js for school
 - 🌱 I’m currently learning C++, React.js, and Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: josh.fried13@gmail.com
-
+- 💬 Ask me about Java/Spring/Micronaut, microservice architecture and web development
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][2].
@@ -25,9 +23,11 @@ You can find me on [![LinkedIn][2.2]][2].
 
 
 Here are some ideas to get you started:
-- 💬 Ask me about 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&#12288;
