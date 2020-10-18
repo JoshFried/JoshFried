@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 -->
 You can find me on [![LinkedIn][3.2]][3] 
 
+<!-- Icons -->
+
 [2]: https://www.linkedin.com/in/josh-fried/
 [2.2] https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
