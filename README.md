@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 🔭 I’m currently working on a smart home simulation service
+- 🔭 I’m currently working on WorkJams api as a Java Developer Intern, as well as a smart home simulation service in Java/Spring and React.js for school
 - 🌱 I’m currently learning c++, react, and java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
