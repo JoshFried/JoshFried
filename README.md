@@ -1,3 +1,6 @@
+<div class="text-white bg-black mb-2">
+  
+
 ### Hi there 👋
 
 <!-- Icons
@@ -38,4 +41,4 @@ You can find me on [![LinkedIn][2.2]][2].
 // can add c ustom skills here  can find more styles at shields.io and icons at simpleicons.org
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 -->
-
+</div>
