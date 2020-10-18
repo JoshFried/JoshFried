@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  ...
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFried&count_private=true&theme=dark&count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=curiosity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFried&count_private=true&theme=dark&count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/<Editor>-<IntelliJ>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
