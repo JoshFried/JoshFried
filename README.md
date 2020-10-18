@@ -37,6 +37,17 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=curiosity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFried&count_private=true&theme=dark&count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://img.shields.io/badge/<Editor>-<IntelliJ>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Shell>-<zsh>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Tools>-<Cassandra>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Tools>-<MySQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
 
 
 <!--
@@ -44,6 +55,6 @@ Here are some ideas to get you started:
 &#12288; (linebreak)
 <!--
 // can add c ustom skills here  can find more styles at shields.io and icons at simpleicons.org
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 -->
 </div>
