@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on WorkJams' api as a Java Developer Intern professionally, and a smart home simulation service in Java/Spring and React.js for school
-- 🌱 I’m currently learning c++, react, and java
+- 🌱 I’m currently learning C++, React.js, and Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: josh.fried13@gmail.com
