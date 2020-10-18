@@ -1,14 +1,14 @@
 
 ### Hi there 👋
-
-<!-- Icons
-**JoshFried/JoshFried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on a smart home simulation service
 - 🌱 I’m currently learning c++, react, and java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: josh.fried13@gmail.com
+<!-- Icons
+**JoshFried/JoshFried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Here are some ideas to get you started:
 - 💬 Ask me about 
 - 😄 Pronouns: ...
