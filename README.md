@@ -1,5 +1,5 @@
 
-### Hi there 👋
+## Welcome 👋
 - 🔭 I’m currently working on WorkJams' api as a Java Developer Intern professionally, and a smart home simulation service in Java/Spring and React.js for school
 - 🌱 I’m currently learning C++, React.js, and Java
 - 📫 How to reach me: josh.fried13@gmail.com
@@ -9,7 +9,7 @@
 
 You can find me on [![LinkedIn][2.2]][2].
 
-#### Tools and Technologies
+## Tools and Technologies
 
 ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
