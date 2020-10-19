@@ -1,6 +1,6 @@
 
 ## Welcome 👋
-- 🔭 I’m currently working on WorkJams' api as a Java Developer Intern professionally, and a smart home simulation service in Java/Spring and React.js for school
+- 🔭 I’m currently working on WorkJams' api as a Java Developer Intern, and a smart home simulation service in Java/Spring and React.js for school
 - 🌱 I’m currently learning C++, React.js, and Java
 - 📫 How to reach me: josh.fried13@gmail.com
 - 😄 Pronouns: he/him
