@@ -1,7 +1,7 @@
 
 ## Welcome 👋
 
-- 🌱 I’m currently learning C++, React.js, and Java
+- 🌱 I’m currently learning OpenCV
 - 📫 How to reach me: josh.fried13@gmail.com
 - 😄 Pronouns: he/him
 - 💬 Ask me about Java/Spring/Micronaut, microservice architecture and web development
