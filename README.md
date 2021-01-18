@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=True&show_icons=true&theme=dark)](https://github.com/joshfried)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341&theme=dark)](https://github.com/joshfried/soen341)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen343&theme=dark)](https://github.com/joshfried/curiosity)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341&theme=dark)](https://github.com/joshfried/soen341)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=SOEN343&theme=dark)](https://github.com/JoshFried/SOEN343)
 
 
 
