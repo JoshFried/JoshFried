@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning OpenCV, SQL, and Data Communication & Networks
 - 📫 How to reach me: josh.fried13@gmail.com
 - 😄 Pronouns: he/him
-- 💬 Ask me about Java/Spring/Micronaut, microservice architecture and all things web development
+- 💬 Ask me about Java/Spring/Micronaut, microservice architecture and algorithms and data structures!
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][2].
