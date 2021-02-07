@@ -2,7 +2,7 @@
 ## Welcome 👋
 
 - 🌱 I’m currently learning SQL, Node, networking, and Rust
-- :nerd_face:	Currently working on onehome: https://github.com/JoshFried/OneHome
+- :nerd_face:	In my free time, I am currently working on onehome: https://github.com/JoshFried/OneHome
 - 📫 How to reach me: josh.fried13@gmail.com
 - 😄 Pronouns: he/him
 - 💬 Ask me about Java/Spring/Micronaut, microservice architecture and algorithms and data structures!
