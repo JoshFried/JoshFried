@@ -1,7 +1,7 @@
 
 ## Welcome 👋
 
-- 🌱 I’m currently learning SQL, and Data Communication & Networks
+- 🌱 I’m currently learning SQL, Node, networking, and Rust
 - 📫 How to reach me: josh.fried13@gmail.com
 - 😄 Pronouns: he/him
 - 💬 Ask me about Java/Spring/Micronaut, microservice architecture and algorithms and data structures!
