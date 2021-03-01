@@ -8,7 +8,7 @@
 - :dog: :cat: When I'm not coding I like to play with my dogs and cats
 - 💬 Ask me about Java/Spring/Micronaut, microservice architecture and algorithms and data structures!
 <!-- Actual text -->
-[![Linkedin Badge](https://img.shields.io/badge/-Josh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-fried/)
+#### How You Can Reach Me: <a href="https://www.linkedin.com/in/josh-fried/" title="linkedin"><img src="icons/linkedin.svg" width="25px" height="25px"/></a><a href="mailto:josh.fried13@gmail.com" title="gmail"><img src="icons/gmail.svg" width="25px" height="25px"/></a>
 
 ### My Favourite Programming Languages
 <a title="rust"><img src="icons/rust.svg" width="35px" height="35px"/></a>
@@ -28,6 +28,7 @@
 <a title="node"><img src="icons/Node.js_logo.svg" width="35px" height="35px"/></a>
 <a title="django"><img src="icons/django.svg" width="35px" height="35px"/></a>
 <a title="postgres"><img src="icons/postgresql-icon.svg" width="35px" height="35px"/></a>
+<a title="docker"><img src="icons/docker.svg" width="35px" height="35px"/></a>
 <a title="cassandra"><img src="icons/Cassandra_logo.svg" width="35px" height="35px"/></a>
 <a title="manjaro"><img src="icons/Manjaro-logo.svg" width="35px" height="35px"/></a>
 <a title="git"><img src="icons/git-icon.svg" width="35px" height="35px"/></a>
