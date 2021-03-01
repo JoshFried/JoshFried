@@ -10,19 +10,19 @@
 <!-- Actual text -->
 [![Linkedin Badge](https://img.shields.io/badge/-Josh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-fried/)
 
-## My Favourite Programming Languages
+### My Favourite Programming Languages
 <a title="rust"><img src="icons/rust.svg" width="35px" height="35px"/></a>
 <a title="java"><img src="icons/java-14.svg" width="35px" height="35px"/></a>
 <a title="python"><img src="icons/python-5.svg" width="35px" height="35px"/></a>
 <a title="typescript"><img src="icons/typescript.svg" width="35px" height="35px"/></a>
 <br/><br/>
 
-## My Editors Of Choice
+### My Editors Of Choice
 <a title="intellij"><img src="icons/intellij-idea-1.svg" width="35px" height="35px"/></a>
 <a title="vim"><img src="icons/vim.svg" width="35px" height="35px"/></a>
 <br/><br/>
 
-## The Technologies I Play With Most
+### The Technologies I Play With Most
 <a title="spring"><img src="icons/spring-3.svg" width="35px" height="35px"/></a>
 <a title="react"><img src="icons/react-2.svg" width="35px" height="35px"/></a>
 <a title="node"><img src="icons/Node.js_logo.svg" width="35px" height="35px"/></a>
