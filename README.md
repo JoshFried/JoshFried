@@ -23,30 +23,22 @@
 <br/><br/>
 
 ### The Technologies I Play With Most
-<a title="spring"><img src="icons/spring-3.svg" width="35px" height="35px"/></a>
-<a title="react"><img src="icons/react-2.svg" width="35px" height="35px"/></a>
-<a title="node"><img src="icons/Node.js_logo.svg" width="35px" height="35px"/></a>
-<a title="django"><img src="icons/django.svg" width="35px" height="35px"/></a>
-<a title="postgres"><img src="icons/postgresql-icon.svg" width="35px" height="35px"/></a>
-<a title="docker"><img src="icons/docker.svg" width="35px" height="35px"/></a>
-<a title="cassandra"><img src="icons/Cassandra_logo.svg" width="35px" height="35px"/></a>
-<a title="manjaro"><img src="icons/Manjaro-logo.svg" width="35px" height="35px"/></a>
-<a title="git"><img src="icons/git-icon.svg" width="35px" height="35px"/></a>
+<a title="spring"><img src="icons/spring-3.svg" width="40px" height="40px"/></a>
+<a title="react"><img src="icons/react-2.svg" width="40px" height="40px"/></a>
+<a title="node"><img src="icons/Node.js_logo.svg" width="40px" height="40px"/></a>
+<a title="django"><img src="icons/django.svg" width="40px" height="40px"/></a>
+<a title="postgres"><img src="icons/postgresql-icon.svg" width="40px" height="40px"/></a>
+<a title="docker"><img src="icons/docker.svg" width="40px" height="40px"/></a>
+<a title="cassandra"><img src="icons/Cassandra_logo.svg" width="40px" height="40px"/></a>
+<a title="manjaro"><img src="icons/Manjaro-logo.svg" width="40px" height="40px"/></a>
+<a title="git"><img src="icons/git-icon.svg" width="40px" height="40px"/></a>
 <br/><br/>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=True&show_icons=true&theme=dark)](https://github.com/joshfried)
 
+<br/><br/>
 
-<!--
-
-&#12288; (linebreak)
-
-<!--
-// can add c ustom skills here  can find more styles at shields.io and icons at simpleicons.org
-<!  --
-// [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341&theme=dark)](https://github.com/joshfried/soen341)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=SOEN343&theme=dark)](https://github.com/JoshFried/SOEN343)
---> 
 
 <!--START_SECTION:waka-->
 ```text
