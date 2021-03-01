@@ -31,6 +31,7 @@
 <a title="cassandra"><img src="icons/Cassandra_logo.svg" width="35px" height="35px"/></a>
 <a title="manjaro"><img src="icons/Manjaro-logo.svg" width="35px" height="35px"/></a>
 <a title="git"><img src="icons/git-icon.svg" width="35px" height="35px"/></a>
+<br/><br/>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=True&show_icons=true&theme=dark)](https://github.com/joshfried)
