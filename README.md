@@ -36,12 +36,6 @@ You can find me on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/josh-fried/
 
 
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=True&show_icons=true&theme=dark)](https://github.com/joshfried)
 
 
@@ -55,9 +49,6 @@ Here are some ideas to get you started:
 <!  --
 // [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=soen341&theme=dark)](https://github.com/joshfried/soen341)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfried&repo=SOEN343&theme=dark)](https://github.com/JoshFried/SOEN343)
 --> 
-
--->
-</div>
 
 <!--START_SECTION:waka-->
 ```text
