@@ -35,7 +35,9 @@ You can find me on [![LinkedIn][2.2]][2].
 
 [2]: https://www.linkedin.com/in/josh-fried/
 
+<!--START_SECTION:waka-->
 <img src="https://github.com/JoshFried/JoshFried/blob/master/images/stat.svg" alt="Alternative Text"/>
+<!--END_SECTION:waka-->
 
 
 
