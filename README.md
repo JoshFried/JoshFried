@@ -7,9 +7,7 @@
 - 📫 How to reach me: josh.fried13@gmail.com
 - 💬 Ask me about Java/Spring/Micronaut, microservice architecture and algorithms and data structures!
 <!-- Actual text -->
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]
-You can find me on [![LinkedIn][2.2]][2].
-
+[![Linkedin Badge](https://img.shields.io/badge/-Josh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-fried/)
 ## Tools and Technologies
 
 ![](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
