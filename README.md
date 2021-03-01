@@ -35,17 +35,6 @@ You can find me on [![LinkedIn][2.2]][2].
 
 [2]: https://www.linkedin.com/in/josh-fried/
 
-<!--START_SECTION:waka-->
-```text
-Rust     25 hrs 9 mins   ████████████▒░░░░░░░░░░░░   49.34 % 
-Python   10 hrs 10 mins  █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-VimL     4 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Other    4 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-INI      2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-```
-<!--END_SECTION:waka-->
-
-
 
 <!-- Icons
 **JoshFried/JoshFried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -74,3 +63,14 @@ Here are some ideas to get you started:
 
 -->
 </div>
+
+<!--START_SECTION:waka-->
+```text
+Rust     25 hrs 9 mins   ████████████▒░░░░░░░░░░░░   49.34 % 
+Python   10 hrs 10 mins  █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+VimL     4 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Other    4 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+INI      2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+```
+<!--END_SECTION:waka-->
+
