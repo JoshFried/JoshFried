@@ -18,8 +18,8 @@
 <br/><br/>
 
 ### My Editors Of Choice
-<a title="intellij"><img src="icons/intellij-idea-1.svg" width="35px" height="35px"/></a>
-<a title="vim"><img src="icons/vim.svg" width="35px" height="35px"/></a>
+<a title="intellij"><img src="icons/intellij-idea-1.svg" width="40px" height="40px"/></a>
+<a title="neovim"><img src="icons/neovimio-icon.svg" width="40px" height="40px"/></a>
 <br/><br/>
 
 ### The Technologies I Play With Most
