@@ -23,6 +23,7 @@
 <br/><br/>
 
 ### The Technologies I Play With Most
+<a title="arch"><img src="icons/arch.svg" width="40px" height="40px"/></a>
 <a title="spring"><img src="icons/spring-3.svg" width="40px" height="40px"/></a>
 <a title="react"><img src="icons/react-2.svg" width="40px" height="40px"/></a>
 <a title="node"><img src="icons/Node.js_logo.svg" width="40px" height="40px"/></a>
@@ -30,7 +31,6 @@
 <a title="postgres"><img src="icons/postgresql-icon.svg" width="40px" height="40px"/></a>
 <a title="docker"><img src="icons/docker.svg" width="40px" height="40px"/></a>
 <a title="cassandra"><img src="icons/Cassandra_logo.svg" width="40px" height="40px"/></a>
-<a title="manjaro"><img src="icons/Manjaro-logo.svg" width="40px" height="40px"/></a>
 <a title="git"><img src="icons/git-icon.svg" width="40px" height="40px"/></a>
 <br/><br/>
 
