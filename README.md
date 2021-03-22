@@ -1,7 +1,7 @@
 
 ## Welcome 👋
 
-- 🌱 I’m currently learning Rust, SQL, Node, and networking!
+- 🌱 I’m currently learning Rust, SQL, and networking!
 - 😄 Pronouns: he/him
 - :computer: I am currently working on onehome: https://github.com/JoshFried/OneHome
 - 📫 How to reach me: josh.fried13@gmail.com
