@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash   2 mins          █████████████████░░░░░░░░   67.91 % 
+
 ```
 <!--END_SECTION:waka-->
 
