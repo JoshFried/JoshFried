@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Rust   6 mins          █████████████████████████   100.00 % 
+Rust   7 mins          ███████████████████████░░   91.91 % 
 ```
 <!--END_SECTION:waka-->
 
