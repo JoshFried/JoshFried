@@ -42,8 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Blade Template   2 hrs 43 mins   █████████████▒░░░░░░░░░░░   52.85 % 
-PHP              2 hrs 25 mins   ███████████▓░░░░░░░░░░░░░   47.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
