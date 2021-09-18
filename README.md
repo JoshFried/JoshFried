@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently about learning Data Engineering and Web-Based Enterprise Application Design
 - 😄 Pronouns: he/him
-- :computer: I am currently an SDE Intern @ Squarepoint Capital in Montreal, where I work on the Data Development Team
+- :computer: I am currently working as an SDE Intern @ Squarepoint Capital in Montreal, where I work on the Data Development Team
 - 📫 How to reach me: josh.fried13@gmail.com
 - :dog: :cat: When I'm not coding I like to play with my dogs and cats
 - 💬 Ask me about Java/Spring/Micronaut, microservice architecture and algorithms and data structures!
