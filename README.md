@@ -42,9 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-XML          11 mins         █████████████▒░░░░░░░░░░░   53.72 % 
-Git Config   5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.20 % 
-Java         4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
