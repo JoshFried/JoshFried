@@ -42,7 +42,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+XML     26 mins         █████████████████████▒░░░   85.30 % 
+VimL    4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 ```
 <!--END_SECTION:waka-->
 
