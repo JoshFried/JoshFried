@@ -41,8 +41,15 @@
 
 
 <!--START_SECTION:waka-->
-```text
 
+```text
+Go                30 mins         █████████████████░░░░░░░░   68.43 %
+Protocol Buffer   11 mins         ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+Rust              2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+GitIgnore file    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
+
 <!--END_SECTION:waka-->
 
