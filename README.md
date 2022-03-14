@@ -43,8 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust   0 secs          ██████████████████████▒░░   89.61 %
-YAML   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
