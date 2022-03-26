@@ -43,9 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go       33 mins         ████████████████████████▒   97.97 %
-Rust     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-go.mod   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
