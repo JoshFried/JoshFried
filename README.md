@@ -43,7 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust        31 mins         ███████████████▒░░░░░░░░░   61.55 %
+textmate    17 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 %
+TOML        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+.env file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Docker      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
