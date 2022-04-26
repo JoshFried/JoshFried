@@ -34,7 +34,4 @@
 <a title="git"><img src="icons/git-icon.svg" width="40px" height="40px"/></a>
 <br/><br/>
  --> 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=True&show_icons=true&theme=dark)](https://github.com/joshfried)
-
 <br/>
