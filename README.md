@@ -38,18 +38,3 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshfried&count_private=True&show_icons=true&theme=dark)](https://github.com/joshfried)
 
 <br/>
-
-
-<!--START_SECTION:waka-->
-
-```text
-Go               28 hrs 7 mins   ██████████████████████▒░░   89.03 %
-YAML             1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Docker           29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-JSON             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Bash             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-SQL              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
-<!--END_SECTION:waka-->
-
